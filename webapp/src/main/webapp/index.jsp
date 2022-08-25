@@ -4,7 +4,7 @@
     <p>Please fill in this form to create an account.</p>
     <hr>
      
-    <label for="Name"><b>Having my mikela</b></label>
+    <label for="Name"><b>The Fin</b></label>
     <input type="text" placeholder="Enter First Nom" name="Name" id="Name" required>
     <br>
     
