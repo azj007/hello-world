@@ -5,7 +5,7 @@
     <hr>
      
     <label for="Name"><b>dunno</b></label>
-    <input type="text" placeholder="per favor enter mumbre" name="Name" id="Name" required>
+    <input type="text" placeholder="per favor enter vos noms" name="Name" id="Name" required>
     <br>
     
     <label for="mobile"><b>Enter Ton Telephone</b></label>
